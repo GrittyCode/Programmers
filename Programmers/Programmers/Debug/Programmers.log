@@ -1,0 +1,4 @@
+﻿  hash2.cpp
+C:\Users\kangh\Desktop\Programmers\Programmers\Programmers\hash2.cpp(33,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kangh\Desktop\Programmers\Programmers\Programmers\hash2.cpp(35,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Programmers.vcxproj -> C:\Users\kangh\Desktop\Programmers\Programmers\Debug\Programmers.exe
