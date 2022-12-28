@@ -46,10 +46,3 @@ int solution(vector<vector<int>> jobs)
     
     return answer / jobs.size();
 }
-
-
-int main(void)
-{
-    cout << solution({ {0,3},{1,9},{2,6} });
-    return 0;
-}
