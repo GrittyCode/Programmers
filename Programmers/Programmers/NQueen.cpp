@@ -38,7 +38,6 @@ void SolveQueen(int colmn)
     }
 
     //Queen을 놓을 곳을 찾는다.
-
 }
 
 int main(void)
