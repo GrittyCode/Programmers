@@ -5,7 +5,11 @@
       <FullPath>C:\Users\Admin\Desktop\Programmers\Programmers\Debug\Programmers.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
-  <ContentFiles />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Admin\Desktop\Programmers\Programmers\Programmers\DynamicProgramming.cpp</FullPath>
+    </ContentFile>
+  </ContentFiles>
   <SatelliteDlls />
   <NonRecipeFileRefs />
 </Project>
