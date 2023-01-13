@@ -60,5 +60,17 @@
     <ClCompile Include="Immigration.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="OneRemainder.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NoneNumberAdd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LackMoney.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1_Kakao_Solution.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
