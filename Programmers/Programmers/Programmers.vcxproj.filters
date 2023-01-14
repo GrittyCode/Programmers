@@ -72,5 +72,11 @@
     <ClCompile Include="Level1_Kakao_Solution.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="budget.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hashard.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
