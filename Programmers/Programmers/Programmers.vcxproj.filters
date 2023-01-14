@@ -78,5 +78,14 @@
     <ClCompile Include="hashard.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="minusPlus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dot.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="threeNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
