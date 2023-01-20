@@ -3,7 +3,9 @@
 
 using namespace std;
 
-string solution(int a, int b) {
+string solution(int a, int b) 
+{
+    
     string answer = "";
     string Day[7] = { "FRI", "SAT", "SUN", "MON", "TUE", "WED","THU" };
     int num[] = { 31,29,31,30,31,30,31,31,30,31,30,31 };
