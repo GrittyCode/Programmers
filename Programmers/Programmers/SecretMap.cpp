@@ -44,6 +44,7 @@ vector<string> solution(int n, vector<int> arr1, vector<int> arr2)
                 answer[i][j] = '#';
         }
     }
+
     return answer;
 }
 
